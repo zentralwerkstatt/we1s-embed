@@ -1,5 +1,7 @@
 # Word embedding experiments on the WE1S corpus
 
+Below, I describe the experiments performed on the WE1S corpus to date that relate to word embeddings and outline potential future research directions. Relevant code is linked in each paragraph.
+
 ## Word embeddings for restricted access corpora
 
 *Fabian Offert, Teddy Roland, Devin Cornell, Summer 2018*
